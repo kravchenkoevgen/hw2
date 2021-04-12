@@ -2,9 +2,9 @@ print(ord("т"))
 print(ord("д"))
 
 if "кот" > "код":
-    print(bool("True"))
+    print("True")
 else:
-    print(bool("False"))
+    print("False")
 
 psw = "pass"
 in_pass = ""
